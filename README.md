@@ -1,2 +1,2 @@
 # hello-world
-My first repository on github
+I like asp.net mvc and i want to learn about it.
